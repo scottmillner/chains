@@ -12262,7 +12262,7 @@
   "slip44": 1,
   "explorers": [{
     "name": "3xpl",
-    "url": "https://3xpl.com/botanix",
+    "url": "https://blockscout.botanixlabs.dev",
     "standard": "EIP3091"
   }]
 }, {
