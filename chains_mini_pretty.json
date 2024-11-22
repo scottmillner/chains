@@ -3938,6 +3938,19 @@
   "faucets": [],
   "infoURL": "https://stenix.org"
 }, {
+  "name": "The Widows Mite",
+  "chainId": 426,
+  "shortName": "mite",
+  "networkId": 426,
+  "nativeCurrency": {
+    "name": "The Widows Mite",
+    "symbol": "MITE",
+    "decimals": 8
+  },
+  "rpc": ["https://rpc.twmcrypto.com/"],
+  "faucets": ["https://faucet.twmcrypto.com/"],
+  "infoURL": "https://twmcrypto.com/"
+}, {
   "name": "Zeeth Chain",
   "chainId": 427,
   "shortName": "zeeth",
@@ -5981,7 +5994,7 @@
 }, {
   "name": "BitTorrent Chain Testnet",
   "chainId": 1028,
-  "shortName": "tbtt",
+  "shortName": "tbtt-deprecated",
   "networkId": 1028,
   "nativeCurrency": {
     "name": "BitTorrent",
@@ -5991,6 +6004,19 @@
   "rpc": ["https://testrpc.bittorrentchain.io/"],
   "faucets": [],
   "infoURL": "https://bittorrentchain.io/"
+}, {
+  "name": "BitTorrent Chain Donau",
+  "chainId": 1029,
+  "shortName": "tBTT",
+  "networkId": 1029,
+  "nativeCurrency": {
+    "name": "BitTorrent",
+    "symbol": "BTT",
+    "decimals": 18
+  },
+  "rpc": ["https://pre-rpc.bt.io"],
+  "faucets": ["https://testfaucet.bt.io"],
+  "infoURL": "https://bt.io"
 }, {
   "name": "Conflux eSpace",
   "chainId": 1030,
@@ -7486,6 +7512,19 @@
   "rpc": ["https://rpc.starworksglobal.com"],
   "faucets": [],
   "infoURL": "https://www.starworksglobal.com"
+}, {
+  "name": "Betherance",
+  "chainId": 1605,
+  "shortName": "Beth",
+  "networkId": 1605,
+  "nativeCurrency": {
+    "name": "Betherance",
+    "symbol": "BETH",
+    "decimals": 18
+  },
+  "rpc": ["https://rpc.bethscan.io"],
+  "faucets": [],
+  "infoURL": "https://rpc.bethscan.io"
 }, {
   "name": "Ethereum Inscription Mainnet",
   "chainId": 1617,
@@ -15040,6 +15079,19 @@
   "faucets": [],
   "infoURL": "https://shape.network"
 }, {
+  "name": "Bool Network Beta Mainnet",
+  "chainId": 11100,
+  "shortName": "BOL",
+  "networkId": 11100,
+  "nativeCurrency": {
+    "name": "BOL",
+    "symbol": "BOL",
+    "decimals": 18
+  },
+  "rpc": ["https://beta-rpc-node-http.bool.network"],
+  "faucets": [],
+  "infoURL": "https://bool.network/"
+}, {
   "name": "Astra",
   "chainId": 11110,
   "shortName": "astra",
@@ -15650,6 +15702,19 @@
   "rpc": ["https://test-my.zeroth.run"],
   "faucets": [],
   "infoURL": "https://www.zeroth.foundation"
+}, {
+  "name": "Bitharvest Chian Mainnet",
+  "chainId": 14149,
+  "shortName": "BitharvestMainnet",
+  "networkId": 14149,
+  "nativeCurrency": {
+    "name": "Bitharvest Mainnet Native Token",
+    "symbol": "BTH",
+    "decimals": 18
+  },
+  "rpc": ["https://rpc.bthscan.io/"],
+  "faucets": [],
+  "infoURL": ""
 }, {
   "name": "EVOLVE Testnet",
   "chainId": 14324,
@@ -20941,6 +21006,19 @@
   "rpc": ["https://testnet-api.magape.io/chain/"],
   "faucets": [],
   "infoURL": "https://magape.io"
+}, {
+  "name": "Bitharvest Chian Testnet",
+  "chainId": 141491,
+  "shortName": "BitharvestTestnet",
+  "networkId": 141491,
+  "nativeCurrency": {
+    "name": "Bitharvest Testnet Native Token",
+    "symbol": "bth",
+    "decimals": 18
+  },
+  "rpc": ["https://rpc-testnet.bthscan.io/"],
+  "faucets": [],
+  "infoURL": ""
 }, {
   "name": "ICPlaza Mainnet",
   "chainId": 142857,

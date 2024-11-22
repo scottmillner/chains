@@ -767,6 +767,14 @@
     "format": "png"
   }]
 }, {
+  "name": "boolnetwork",
+  "icons": [{
+    "url": "ipfs://QmPVnYRhenXH8X9NF3vy7oU1sHnoBoNU2xDU68uBqWoy3b",
+    "width": 229,
+    "height": 229,
+    "format": "png"
+  }]
+}, {
   "name": "zeniq",
   "icons": [{
     "url": "ipfs://QmVUVUBuN7ZeSty2PZ2sS41752b4ez4pDGbLjjY8PSrmVu",
@@ -2359,6 +2367,14 @@
     "format": "svg"
   }]
 }, {
+  "name": "mite",
+  "icons": [{
+    "url": "ipfs://QmUdrSXS4729UQGVvUYfc8S1CHnG3JpG2HhCTDmsCw6jk8",
+    "width": 500,
+    "height": 500,
+    "format": "png"
+  }]
+}, {
   "name": "dchaint",
   "icons": [{
     "url": "ipfs://QmP2cDWvgMuPgwAAEX9KexowUEjw6q7zCUSsWcb8HdudUH",
@@ -3108,6 +3124,14 @@
     "url": "ipfs://QmQyJt28h4wN3QHPXUQJQYQqGiFUD77han3zibZPzHbitk",
     "width": 1000,
     "height": 1436,
+    "format": "png"
+  }]
+}, {
+  "name": "bttc",
+  "icons": [{
+    "url": "ipfs://QmW7DmMmWVH4xTWf573AkaUD87tsWZyAxwjyvYx8vU6bjK",
+    "width": 96,
+    "height": 96,
     "format": "png"
   }]
 }, {
@@ -4892,6 +4916,14 @@
     "url": "ipfs://bafybeie7jzlzlpz7c3a3oh4x5joej23dj2qf3cexmchjyc72hv3fblcaja",
     "width": 256,
     "height": 256,
+    "format": "png"
+  }]
+}, {
+  "name": "betherance",
+  "icons": [{
+    "url": "ipfs://QmQnf8Fp3xVimXszkCt7EfKWjUzGWK9HBq9EQ8xXbm1APH",
+    "width": 512,
+    "height": 512,
     "format": "png"
   }]
 }, {
@@ -7013,6 +7045,14 @@
     "width": 512,
     "height": 512,
     "format": "png"
+  }]
+}, {
+  "name": "bth",
+  "icons": [{
+    "url": "ipfs://QmPdGw9RLstggj3xcVtAfzmP2rUy6i2FuM4KPLC9wTiQqm",
+    "width": 1080,
+    "height": 1080,
+    "format": "jpg"
   }]
 }, {
   "name": "xdc",
